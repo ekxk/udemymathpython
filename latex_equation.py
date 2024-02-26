@@ -1,4 +1,4 @@
-%pip install handcalcs
+#pip install handcalcs
 
 # first way
 Equation 1
